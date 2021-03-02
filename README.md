@@ -2,11 +2,11 @@
 
 
 <p align="center">
-  <a href="https://github.com/Zora24/Lord-Userbot/fork">
+  <a href="https://github.com/abusu12/Rush-Userbot/fork">
     <img src="https://img.shields.io/github/forks/Zora24/Lord-Userbot?label=Fork&style=social">
     
   </a>
-  <a href="https://github.com/Zora24/Lord-Userbot">
+  <a href="https://github.com/abusu12/Rush-Userbot">
     <img src="https://img.shields.io/github/stars/Zora24/Lord-Userbot?style=social">
   </a>
 </p>  
@@ -18,7 +18,7 @@
 <p align="center">&nbsp;</p>
 
 ### Repo Lord Userbot
-Repo Yang Dibuat [Alvin](https://t.me/liualvinas) Dari Berbagai Repo Userbot Github 
+Repo Yang Dibuat [Abu](https://t.me.Melda_ni) Dari Berbagai Repo Userbot Github 
 
 
 ### CARA MENDAPATKAN STRING SESSON
